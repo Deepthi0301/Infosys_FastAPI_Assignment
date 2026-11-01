@@ -57,7 +57,7 @@ Infosys_FastAPI_Assignment/
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Deepthi0301/Infosys_FastAPI_Assignment
 ```
 
 ### 2. Navigate to the Project Folder
